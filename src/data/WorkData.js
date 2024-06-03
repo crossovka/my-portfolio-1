@@ -4,7 +4,7 @@ export const WorkData = [
 		desc: "Сайт отображающий мои навыки в веб разработке",
 		tech: ['html', 'javascript', 'css', 'react'],
 		gitlink: "//github.com/crossovka/my-portfolio-1",
-		site: "",
+		site: "https://crossovka.github.io/my-portfolio-1-HOST/",
 	},
 	{
 		title: "Sunny Lamp",
