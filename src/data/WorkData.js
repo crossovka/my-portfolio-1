@@ -1,0 +1,51 @@
+export const WorkData = [
+	{
+		title: "Sunny Lamp",
+		desc: "Красивый интерактивный сайт с лампочкой",
+		tech: ['html', 'javascript', 'css'],
+		gitlink: "//github.com/crossovka/lamp",
+		site: "//crossovka.github.io/lamp/",
+	},
+	{
+		title: "npm пакет",
+		desc: "UI библиотека для стилизации блоков на подобии tailwind, доступная всем",
+		tech: ['scss', 'css'],
+		gitlink: "//github.com/crossovka/lamp",
+		site: "https://www.npmjs.com/package/crossovka-sass",
+	},
+	{
+		title: "BIASA",
+		desc: "Ecomerse вебсайт BIASA",
+		tech: ['html', 'scss', 'css', 'js', 'gulp', 'webpack', 'figma'],
+		gitlink: "//github.com/crossovka/biasa-host",
+		site: "https://crossovka.github.io/biasa-host/",
+	},
+	{
+		title: "FUNIRO website",
+		desc: "Landing page по продаже мебели",
+		tech: ['html', 'scss', 'css', 'js', 'gulp', 'webpack', 'figma'],
+		gitlink: "//github.com/crossovka/funiro-host",
+		site: "https://github.com/crossovka/funiro-host",
+	},
+	{
+		title: "ZLATMAX website",
+		desc: "Интернет магазин для продажи ножей",
+		tech: ['html', 'scss', 'css', 'js', 'gulp', 'webpack', 'figma'],
+		gitlink: "https://github.com/crossovka/zlatmax-host",
+		site: "//crossovka.github.io/zlatmax-host/",
+	},
+	{
+		title: "library management app",
+		desc: "Десктоп риложение для управления базой днных библиотеки, выполненое мною на практике",
+		tech: ['python', 'sql', 'tkinter'],
+		gitlink: "https://github.com/crossovka/library-managment-app",
+		site: "//github.com/crossovka/library-managment-app",
+	},
+	{
+		title: "library management app",
+		desc: "Вебсайт с API openweather map для прогноза погоды в городе",
+		tech: ['html', 'css', 'js',],
+		gitlink: "https://github.com/crossovka/simple-weather-website",
+		site: "https://crossovka.github.io/simple-weather-website/",
+	},
+];
