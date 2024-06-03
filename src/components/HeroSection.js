@@ -104,8 +104,9 @@ const HeroSection = ({ nav, handleNav }) => {
 				initial='hidden'
 				whileInView='visible'>
 				<a
-					href='Peace Jinadu-Paul CV.pdf'
-					download='Peace Jinadu-Paul CV'
+					href='https://ekaterinburg.hh.ru/resume/07c9cb97ff0d438b460039ed1f6b73587a7578'
+					download='Резюме'
+					target='_blank'
 					className='hero-contact'>
 					Скачать резюме<BiDownload className='cv-icon' />
 				</a>

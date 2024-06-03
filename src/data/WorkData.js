@@ -1,5 +1,12 @@
 export const WorkData = [
 	{
+		title: "Этот сайт портфолио",
+		desc: "Сайт отображающий мои навыки в веб разработке",
+		tech: ['html', 'javascript', 'css', 'react'],
+		gitlink: "//github.com/crossovka/my-portfolio-1",
+		site: "",
+	},
+	{
 		title: "Sunny Lamp",
 		desc: "Красивый интерактивный сайт с лампочкой",
 		tech: ['html', 'javascript', 'css'],
@@ -46,6 +53,13 @@ export const WorkData = [
 		desc: "Вебсайт с API openweather map для прогноза погоды в городе",
 		tech: ['html', 'css', 'js',],
 		gitlink: "https://github.com/crossovka/simple-weather-website",
-		site: "https://crossovka.github.io/simple-weather-website/",
+		site: "//crossovka.github.io/simple-weather-website/",
+	},
+	{
+		title: "Мое первое портфолио",
+		desc: "мой первый вебсайт",
+		tech: ['html', 'css', 'js',],
+		gitlink: "https://github.com/crossovka/Portfolio",
+		site: "//crossovka.github.io/Portfolio/",
 	},
 ];
