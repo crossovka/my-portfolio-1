@@ -71,6 +71,7 @@ const Certificates = () => {
 					slidesPerView={4}
 					loop={true}
 					centeredSlides={false}
+					lazy={true}
 					pagination={{
 						clickable: true,
 					}}
@@ -82,11 +83,11 @@ const Certificates = () => {
 							<div className="slide ibg">
 								<img
 									src={image}
-									data-fancybox="gallery"
+									data-fancybox="gallery3"
 									alt={`Slide ${index + 1}`}
 									onClick={() => {
 										Fancybox.show(
-											<a data-fancybox="gallery" className="fancybox-content">
+											<a data-fancybox="gallery3" className="fancybox-content">
 												<img
 													src={image}
 													alt={`Slide ${index + 1}`}
@@ -112,6 +113,7 @@ const Certificates = () => {
 					slidesPerView={4}
 					loop={true}
 					centeredSlides={false}
+					lazy={true}
 					pagination={{
 						clickable: true,
 					}}
@@ -153,6 +155,7 @@ const Certificates = () => {
 					slidesPerView={4}
 					loop={true}
 					centeredSlides={false}
+					lazy={true}
 					pagination={{
 						clickable: true,
 					}}
@@ -164,11 +167,11 @@ const Certificates = () => {
 							<div className="slide ibg">
 								<img
 									src={image}
-									data-fancybox="gallery"
+									data-fancybox="gallery2"
 									alt={`Slide ${index + 1}`}
 									onClick={() => {
 										Fancybox.show(
-											<a data-fancybox="gallery" className="fancybox-content">
+											<a data-fancybox="gallery2" className="fancybox-content">
 												<img
 													src={image}
 													alt={`Slide ${index + 1}`}

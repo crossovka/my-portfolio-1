@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio-1",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@fancyapps/ui": "^5.0.36",
     "@testing-library/jest-dom": "^5.16.2",
@@ -41,4 +41,5 @@
       "last 1 safari version"
     ]
   }
+	
 }
