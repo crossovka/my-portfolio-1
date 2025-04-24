@@ -20,8 +20,8 @@ const About = () => {
 						viewport={{ once: true }}
 						className="heading"
 					>
-						<p className="heading-sub-text">Кто я такой</p>
-						<p className="heading-text">Обо мне</p>
+						<p className="heading-sub-text">Who am I</p>
+						<p className="heading-text">About me</p>
 					</motion.div>
 					<div className="split-about">
 						<motion.div
