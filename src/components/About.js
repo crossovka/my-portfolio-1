@@ -1,7 +1,6 @@
 import React from 'react';
 import '../styles/About.css';
 import { motion } from 'framer-motion';
-import ProfileImg from '../images/profile.png';
 
 const About = () => {
 	const horizontal = {
@@ -59,7 +58,7 @@ const About = () => {
 							whileInView={horizontal}
 							className="about-img"
 						>
-							<img src={ProfileImg} alt="Profile" />
+							<img src="./images/profile.png" alt="Profile" />
 						</motion.div>
 					</div>
 				</div>
